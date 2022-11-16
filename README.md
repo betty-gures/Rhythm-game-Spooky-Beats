@@ -6,10 +6,11 @@ VR rhythm game- Week 4 of XR Bootcamp Prototyping
 # Spooky-Beats
 VR rhythm game- Week 4 of XR Bootcamp Prototyping
 
+![Spooky_Beats_Demo_AdobeExpress (1)](https://user-images.githubusercontent.com/60520606/202228792-6af9a5fe-b74a-4c2f-8937-43a38721c4ec.gif)
 
 ### [Project Gameplay Video Link](https://youtu.be/0O7QrvZFgyc)
 
-![Working_Traveller_Demo_AdobeExpress](https://user-images.githubusercontent.com/60520606/200956397-b82a585a-765a-4611-bedb-1ad544dc9e43.gif)
+
 
 
 # Part 1: Scoping
