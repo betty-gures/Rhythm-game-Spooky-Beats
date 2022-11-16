@@ -20,6 +20,7 @@ VR rhythm game- Week 4 of XR Bootcamp Prototyping
 ## Resources/Inspiration
 
 Inspiration: Beat Saber
+
 Resources: 
 
 - Halloween Assets https://assetstore.unity.com/packages/3d/props/free-halloween-2021-205952
