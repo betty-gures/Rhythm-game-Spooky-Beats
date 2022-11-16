@@ -15,16 +15,20 @@ VR rhythm game- Week 4 of XR Bootcamp Prototyping
 * This repostory has been made for **XR Bootcamp's Prototyping** course assignment. Here, Betül Güreş is documenting the important notes, and project essentials of the prototype made for week 4. 
 * I am a scholar among the Beyond Inclusion Scholarship program, offering XR Education
 
+
 ***
 ## Resources/Inspiration
 
 Inspiration: Beat Saber
-Resources: Halloween Assets https://assetstore.unity.com/packages/3d/props/free-halloween-2021-205952
-           Environment is self-modelled https://www.youtube.com/watch?v=5qN2CfVjwRg&ab_channel=chocofur
-           Mesh slicing was done with Ezy-slice library: https://github.com/DavidArayan/ezy-slice
-           Rhythm Game useful tutorial: https://www.youtube.com/watch?v=ev0HsmgLScg&t=823s&ab_channel=SkyanSam-SkyriftStudios
+Resources: 
 
-![image](https://user-images.githubusercontent.com/60520606/200137399-ffc2d3c7-3361-472e-b017-a0c593935ebd.png)
+- Halloween Assets https://assetstore.unity.com/packages/3d/props/free-halloween-2021-205952
+           
+- Environment is self-modelled https://www.youtube.com/watch?v=5qN2CfVjwRg&ab_channel=chocofur
+
+- Mesh slicing was done with Ezy-slice library: https://github.com/DavidArayan/ezy-slice
+
+- Rhythm Game useful tutorial: https://www.youtube.com/watch?v=ev0HsmgLScg&t=823s&ab_channel=SkyanSam-SkyriftStudios
 
 
 ## Idea
