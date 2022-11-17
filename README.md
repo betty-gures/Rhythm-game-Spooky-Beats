@@ -15,6 +15,7 @@ VR rhythm game- Week 4 of XR Bootcamp Prototyping
 * This repostory has been made for **XR Bootcamp's Prototyping** course assignment. Here, Betül Güreş is documenting the important notes, and project essentials of the prototype made for week 4. 
 * I am a scholar among the Beyond Inclusion Scholarship program, offering XR Education
 
+![image](https://user-images.githubusercontent.com/60520606/201912701-ffc43446-4a32-4ba3-98e8-e215f4166593.png)
 
 ***
 ## Resources/Inspiration
