@@ -39,7 +39,7 @@ Resources:
 - Rhythm Game useful tutorial: https://www.youtube.com/watch?v=ev0HsmgLScg&t=823s&ab_channel=SkyanSam-SkyriftStudios
 
 
-
+## Goals
 
 ![image](https://user-images.githubusercontent.com/60520606/159128271-92556441-6668-4fa6-a548-7519c0c5ad94.png)
 
